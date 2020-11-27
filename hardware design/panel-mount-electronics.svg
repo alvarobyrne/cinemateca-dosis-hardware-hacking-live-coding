@@ -171,9 +171,9 @@
          style="fill:none;stroke:#000000;stroke-width:1" />
     </symbol>
     <symbol
-       id="servo-motor-shaft">
+       id="servo-motor-shaft-6">
       <title
-         id="title2870">Servo Motor Shaft</title>
+         id="title2870">Servo Motor Shaft 6 holes</title>
       <g
          transform="matrix(0,1,-1,0,249.99997,345.3622)"
          id="gSjg2hv5e4346"
@@ -1048,6 +1048,109 @@
          cy="835.1651"
          r="6.2007875" />
     </symbol>
+    <symbol
+       id="servo-motor-shaft-7">
+      <title>Servo Motor Shaft 7</title>
+      <circle
+         cx="346.42136"
+         cy="-295.54248"
+         r="14.173228"
+         class="group-engraving"
+         transform="rotate(90)"
+         id="circle458"
+         style="fill:none;stroke:#ffa500;stroke-width:1" />
+      <circle
+         cx="346.42133"
+         cy="-295.54248"
+         r="8.8582678"
+         id="circle434"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         transform="rotate(90)" />
+      <g
+         id="g500">
+        <g
+           id="g489"
+           transform="translate(0,-7.0866089)">
+          <circle
+             cx="293.27173"
+             cy="-295.54248"
+             r="1.7716535"
+             id="circle483"
+             style="fill:none;stroke:#000000;stroke-width:1"
+             transform="rotate(90)" />
+          <circle
+             cx="300.35834"
+             cy="-295.54248"
+             r="1.7716535"
+             id="circle485"
+             style="fill:none;stroke:#000000;stroke-width:1"
+             transform="rotate(90)" />
+        </g>
+        <circle
+           cx="300.35834"
+           cy="-295.54248"
+           r="1.7716535"
+           id="circle438"
+           style="fill:none;stroke:#000000;stroke-width:1"
+           transform="rotate(90)" />
+        <circle
+           cx="307.44495"
+           cy="-295.54248"
+           r="1.7716535"
+           id="circle440"
+           style="fill:none;stroke:#000000;stroke-width:1"
+           transform="rotate(90)" />
+        <circle
+           cx="314.53156"
+           cy="-295.54248"
+           r="1.7716535"
+           id="circle442"
+           style="fill:none;stroke:#000000;stroke-width:1"
+           transform="rotate(90)" />
+        <circle
+           cx="321.61816"
+           cy="-295.54248"
+           r="1.7716535"
+           id="circle444"
+           style="fill:none;stroke:#000000;stroke-width:1"
+           transform="rotate(90)" />
+        <circle
+           cx="328.7048"
+           cy="-295.54248"
+           r="1.7716535"
+           id="circle446"
+           style="fill:none;stroke:#000000;stroke-width:1"
+           transform="rotate(90)" />
+        <rect
+           x="362.36621"
+           y="-297.31412"
+           width="42.519684"
+           height="3.5433071"
+           id="rect448"
+           style="fill:none;stroke:#000000;stroke-width:1"
+           transform="rotate(90)" />
+      </g>
+      <g
+         class="group-engraving"
+         transform="rotate(90,-25.439427,320.9819)"
+         id="g456"
+         style="fill:none;stroke:#ffa500;stroke-width:1">
+        <line
+           x1="-14.173228"
+           x2="14.173228"
+           y1="0"
+           y2="0"
+           id="line452"
+           style="fill:none" />
+        <line
+           x1="0"
+           x2="0"
+           y1="-14.173228"
+           y2="14.173228"
+           id="line454"
+           style="fill:none" />
+      </g>
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1056,9 +1159,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.6846311"
-     inkscape:cx="400.11648"
-     inkscape:cy="256.9886"
+     inkscape:zoom="3.7554249"
+     inkscape:cx="296.12266"
+     inkscape:cy="361.94737"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1117,7 +1220,7 @@
        width="100%"
        height="100%" />
     <use
-       xlink:href="#servo-motor-shaft"
+       xlink:href="#servo-motor-shaft-6"
        id="use10010" />
     <use
        xlink:href="#potentiometer"
@@ -1314,5 +1417,8 @@
     <use
        xlink:href="#switch-slider-DPDT-big-3"
        id="use21542" />
+    <use
+       xlink:href="#servo-motor-shaft-7"
+       id="use536" />
   </g>
 </svg>
