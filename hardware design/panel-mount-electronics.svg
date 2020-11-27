@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,9 +13,10 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg4149"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
    sodipodi:docname="panel-mount-electronics.svg">
-  <title id="title11280">
+  <title
+     id="title11280">
      Panel Mount Electronics
      </title>
   <defs
@@ -26,7 +25,8 @@
        title="motor support- nema 17"
        id="motor-support-px244m-02a"
        style="display:inline">
-      <title>motor support- nema 17</title>
+      <title
+         id="title2836">motor support- nema 17</title>
       <circle
          r="58.464569"
          cy="96.868668"
@@ -108,7 +108,8 @@
     </symbol>
     <symbol
        id="stepper-motor-28bjy48">
-      <title>28bjy48 stepper motor</title>
+      <title
+         id="title2852">28bjy48 stepper motor</title>
       <path
          inkscape:connector-curvature="0"
          id="circle5722"
@@ -127,7 +128,8 @@
     </symbol>
     <symbol
        id="L-shape-half-inch">
-      <title>Metal L 1/2''</title>
+      <title
+         id="title2858">Metal L 1/2''</title>
       <path
          d="m 521.76378,489.85039 35.43307,0 0,60.23622 -35.43307,0 z"
          id="pathSjg2hv5e434q"
@@ -142,7 +144,8 @@
     </symbol>
     <symbol
        id="servo-motor">
-      <title>Servo Motor</title>
+      <title
+         id="title2863">Servo Motor</title>
       <path
          d="m 561.09449,413.84645 41.81102,0 0,113.0315 -41.81102,0 z"
          id="pathSjg2hv5e434u"
@@ -169,7 +172,8 @@
     </symbol>
     <symbol
        id="servo-motor-shaft">
-      <title>Servo Motor Shaft</title>
+      <title
+         id="title2870">Servo Motor Shaft</title>
       <g
          transform="matrix(0,1,-1,0,249.99997,345.3622)"
          id="gSjg2hv5e4346"
@@ -255,7 +259,8 @@
     </symbol>
     <symbol
        id="potentiometer">
-      <title>Potentiometer</title>
+      <title
+         id="title2886">Potentiometer</title>
       <ellipse
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="ellipse5053"
@@ -450,7 +455,8 @@
     </symbol>
     <symbol
        id="potentiometer-back-footprint">
-      <title>Potentiometer with footprint</title>
+      <title
+         id="title2913">Potentiometer with footprint</title>
       <rect
          y="366.36221"
          x="413.40356"
@@ -488,7 +494,8 @@
     </symbol>
     <symbol
        id="banana-female">
-      <title>Banana female</title>
+      <title
+         id="title2921">Banana female</title>
       <circle
          r="8.8582678"
          cy="358.00394"
@@ -516,7 +523,8 @@
     </symbol>
     <symbol
        id="midi-female">
-      <title>Midi DIN 5 female</title>
+      <title
+         id="title2928">Midi DIN 5 female</title>
       <circle
          r="26.574802"
          cy="520.78741"
@@ -553,7 +561,8 @@
     </symbol>
     <symbol
        id="switch-slider-DPDT-big">
-      <title>Big Slider Switch</title>
+      <title
+         id="title2937">Big Slider Switch</title>
       <rect
          transform="matrix(0,1,-1,0,0,0)"
          y="-404.68607"
@@ -564,19 +573,9 @@
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </symbol>
     <symbol
-       id="switch-slider-DPDT-big-2">
-      <title>Big Slider Switch 2</title>
-      <rect
-         y="0"
-         x="0"
-         height="16mm"
-         width="8mm"
-         id="rect5075"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    </symbol>
-    <symbol
        id="switch-slider-SPST-small">
-      <title>Small Slider Switch</title>
+      <title
+         id="title2945">Small Slider Switch</title>
       <rect
          inkscape:label="switch-slider-spst-small"
          y="557.03687"
@@ -600,7 +599,8 @@
     </symbol>
     <symbol
        id="LED">
-       <title>LED</title>
+      <title
+         id="title2951">LED</title>
       <circle
          r="9.2125988"
          cy="0"
@@ -610,7 +610,8 @@
     </symbol>
     <symbol
        id="potentiometer-footprint">
-      <title>Potentiometer with footprint 2</title>
+      <title
+         id="title2955">Potentiometer with footprint 2</title>
       <rect
          y="557.90491"
          x="384.2287"
@@ -843,7 +844,8 @@
     </symbol>
     <symbol
        id="arduino-nano-usb">
-       <title>Arduino Nano usb hole</title>
+      <title
+         id="title2988">Arduino Nano usb hole</title>
       <rect
          y="393.65244"
          x="425.93991"
@@ -854,7 +856,8 @@
     </symbol>
     <symbol
        id="six-position-selector">
-      <title>Six position selector</title>
+      <title
+         id="title2992">Six position selector</title>
       <circle
          r="15.944882"
          cy="694.17761"
@@ -876,19 +879,9 @@
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </symbol>
     <symbol
-       id="balsa-wood-bar-section-2">
-      <title>Balsa wood bar section 2</title>
-      <rect
-         y="710.63531"
-         x="159.80614"
-         height="88.58268"
-         width="88.582672"
-         id="rect45890"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    </symbol>
-    <symbol
        id="balsa-wood-bar-section-1">
-      <title>Balsa wood bar section 1</title>
+      <title
+         id="title3002">Balsa wood bar section 1</title>
       <g
          transform="matrix(0.80000005,0,0,0.79999998,31.96122,159.84362)"
          id="use45900">
@@ -903,7 +896,8 @@
     </symbol>
     <symbol
        id="arduino-nano-protoboard-holder">
-      <title>Arduino Nano Protobaord Holder</title>
+      <title
+         id="title3007">Arduino Nano Protobaord Holder</title>
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 291.68506,180.93699 460.62988,0 0,35.43307 -460.62988,0 z"
@@ -945,32 +939,31 @@
          inkscape:connector-curvature="0" />
       <text
          xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.11060905;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.1106;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          x="530.44641"
          y="160.5009"
-         id="text51664"
-         sodipodi:linespacing="125%"><tspan
+         id="text51664"><tspan
            sodipodi:role="line"
            id="tspan51666"
            x="530.44641"
            y="160.5009"
-           style="font-size:13.74999905px;fill:#000000;stroke:none;stroke-width:11.11060905">protoboard</tspan></text>
+           style="font-size:13.75px;line-height:1.25;fill:#000000;stroke:none;stroke-width:11.1106">protoboard</tspan></text>
       <text
          xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.74999905px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.11060905;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:11.1106;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          x="609.76648"
          y="132.33315"
-         id="text51668"
-         sodipodi:linespacing="125%"><tspan
+         id="text51668"><tspan
            sodipodi:role="line"
            id="tspan51670"
            x="609.76648"
            y="132.33315"
-           style="font-size:13.74999905px;fill:#000000;stroke:none;stroke-width:11.11060905">arduino nano</tspan></text>
+           style="font-size:13.75px;line-height:1.25;fill:#000000;stroke:none;stroke-width:11.1106">arduino nano</tspan></text>
     </symbol>
     <symbol
        id="L-shape-big">
-      <title>Metal L 3/4''</title>
+      <title
+         id="title3021">Metal L 3/4''</title>
       <rect
          y="292.57245"
          x="628.43689"
@@ -992,21 +985,26 @@
     </symbol>
     <symbol
        id="dc-motor-small">
-      <title>DC motor small</title>
+      <title
+         id="title3027">DC motor small</title>
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         d="M 80.017578 256.32031 A 35.433071 35.433071 0 0 0 67.351562 283.42578 A 35.433071 35.433071 0 0 0 79.964844 310.5332 L 125.54688 310.5332 A 35.433071 35.433071 0 0 0 138.2168 283.42578 A 35.433071 35.433071 0 0 0 125.60352 256.32031 L 80.017578 256.32031 z "/>
+         d="M 80.017578 256.32031 A 35.433071 35.433071 0 0 0 67.351562 283.42578 A 35.433071 35.433071 0 0 0 79.964844 310.5332 L 125.54688 310.5332 A 35.433071 35.433071 0 0 0 138.2168 283.42578 A 35.433071 35.433071 0 0 0 125.60352 256.32031 L 80.017578 256.32031 z "
+         id="path3029" />
     </symbol>
     <symbol
        id="dc-motor-9v">
-      <title>DC motor small</title>
+      <title
+         id="title3032">DC motor small</title>
       <path
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         d="M 86.423828 337.53906 A 43.051178 43.051178 0 0 0 71.615234 369.96094 A 43.051178 43.051178 0 0 0 86.388672 402.38281 L 142.9082 402.38281 A 43.051178 43.051178 0 0 0 157.7168 369.96094 A 43.051178 43.051178 0 0 0 142.94336 337.53906 L 86.423828 337.53906 z "/>
+         d="M 86.423828 337.53906 A 43.051178 43.051178 0 0 0 71.615234 369.96094 A 43.051178 43.051178 0 0 0 86.388672 402.38281 L 142.9082 402.38281 A 43.051178 43.051178 0 0 0 157.7168 369.96094 A 43.051178 43.051178 0 0 0 142.94336 337.53906 L 86.423828 337.53906 z "
+         id="path3034" />
     </symbol>
     <symbol
        id="arduino-uno-holder-2">
-      <title>Arduino uno holder</title>
+      <title
+         id="title3037">Arduino uno holder</title>
       <circle
          r="6.2007875"
          cy="629.1698"
@@ -1028,7 +1026,8 @@
     </symbol>
     <symbol
        id="switch-slider-DPDT-big-3">
-      <title>Big Slider Switch 3</title>
+      <title
+         id="title3043">Big Slider Switch 3</title>
       <rect
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          id="rect21489"
@@ -1063,10 +1062,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="745"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="false"
      inkscape:snap-others="true"
@@ -1077,7 +1076,8 @@
      inkscape:bbox-nodes="false"
      inkscape:snap-nodes="false"
      inkscape:object-paths="false"
-     inkscape:object-nodes="true" />
+     inkscape:object-nodes="true"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata4154">
     <rdf:RDF>
@@ -1186,21 +1186,21 @@
        id="use57803" />
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.41774845;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:monospace;-inkscape-font-specification:'monospace, Normal';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.41775;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        x="256.36752"
        y="48.710617"
-       id="text10144"
-       sodipodi:linespacing="125%"><tspan
+       id="text10144"><tspan
          sodipodi:role="line"
          id="tspan10146"
          x="256.36752"
-         y="48.710617">motor-support-px244m-02a</tspan></text>
+         y="48.710617"
+         style="font-size:27.5px;line-height:1.25">motor-support-px244m-02a</tspan></text>
     <use
-       xlink:href="#symbol10156"
+       xlink:href="#dc-motor-small"
        id="use10159"
        style="stroke:none;fill:none" />
     <use
-       xlink:href="#symbol10468"
+       xlink:href="#dc-motor-9v"
        id="use10471" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
