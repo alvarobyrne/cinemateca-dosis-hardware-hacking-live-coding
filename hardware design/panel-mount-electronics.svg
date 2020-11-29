@@ -1050,7 +1050,8 @@
     </symbol>
     <symbol
        id="servo-motor-shaft-7">
-      <title>Servo Motor Shaft 7</title>
+      <title
+         id="title201">Servo Motor Shaft 7</title>
       <circle
          cx="346.42136"
          cy="-295.54248"
@@ -1069,18 +1070,18 @@
       <g
          id="g490"
          style="fill:none;stroke:#ff0000;stroke-width:1">
-          <circle
+        <circle
            cx="286.18512"
-             cy="-295.54248"
-             r="1.7716535"
+           cy="-295.54248"
+           r="1.7716535"
            id="circle472"
-             transform="rotate(90)" />
-          <circle
+           transform="rotate(90)" />
+        <circle
            cx="293.27173"
-             cy="-295.54248"
-             r="1.7716535"
+           cy="-295.54248"
+           r="1.7716535"
            id="circle474"
-             transform="rotate(90)" />
+           transform="rotate(90)" />
         <circle
            cx="300.35834"
            cy="-295.54248"
@@ -1140,6 +1141,60 @@
            style="fill:none" />
       </g>
     </symbol>
+    <symbol
+       id="servo-motor-shaft-7-one-side"
+       style="stroke:#ff0000">
+      <title
+         id="title2603">Servo Motor Shaft 7 - One side</title>
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.187499;stop-color:#000000"
+         id="path1323"
+         cx="0"
+         cy="0"
+         r="7.8786912" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.1875;stop-color:#000000"
+         id="path1380"
+         cy="15.945"
+         r="2.0322344"
+         cx="0" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.1875;stop-color:#000000"
+         id="circle1399"
+         cy="22.27"
+         r="2.0322344"
+         cx="0" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.1875;stop-color:#000000"
+         id="circle1401"
+         cy="28.594"
+         r="2.0322344"
+         cx="0" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.1875;stop-color:#000000"
+         id="circle1403"
+         cy="34.918999"
+         r="2.0322344"
+         cx="0" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.1875;stop-color:#000000"
+         id="circle1405"
+         cy="41.243999"
+         r="2.0322344"
+         cx="0" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.1875;stop-color:#000000"
+         id="circle1407"
+         cy="47.569"
+         r="2.0322344"
+         cx="0" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.1875;stop-color:#000000"
+         id="circle1409"
+         cy="53.894001"
+         r="2.0322344"
+         cx="0" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1148,9 +1203,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.7554249"
-     inkscape:cx="296.12266"
-     inkscape:cy="361.94737"
+     inkscape:zoom="9.5203098"
+     inkscape:cx="8.3705371"
+     inkscape:cy="-5.9366574"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1159,17 +1214,18 @@
      inkscape:window-x="0"
      inkscape:window-y="22"
      inkscape:window-maximized="1"
-     inkscape:snap-bbox="false"
+     inkscape:snap-bbox="true"
      inkscape:snap-others="true"
      inkscape:snap-intersection-paths="false"
      inkscape:snap-global="true"
      inkscape:bbox-paths="false"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:bbox-nodes="false"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:snap-bbox-midpoints="true" />
   <metadata
      id="metadata4154">
     <rdf:RDF>
@@ -1186,6 +1242,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <use
+       xlink:href="#servo-motor-shaft-7-one-side"
+       id="use1439" />
     <use
        xlink:href="#motor-support-px244m-02a"
        id="use8799"
@@ -1409,5 +1468,22 @@
     <use
        xlink:href="#servo-motor-shaft-7"
        id="use536" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="reference">
+    <g
+       id="g1297"
+       style="stroke:#000000;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.1875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 0,9.375 V -9.375"
+         id="path468" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.1875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -9.375,0 H 9.3749999"
+         id="path1293" />
+    </g>
   </g>
 </svg>
