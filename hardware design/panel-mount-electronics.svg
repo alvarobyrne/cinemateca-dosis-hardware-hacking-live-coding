@@ -1203,9 +1203,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.5203098"
-     inkscape:cx="8.3705371"
-     inkscape:cy="-5.9366574"
+     inkscape:zoom="3.4161983"
+     inkscape:cx="280.58195"
+     inkscape:cy="394.98666"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1242,9 +1242,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <use
-       xlink:href="#servo-motor-shaft-7-one-side"
-       id="use1439" />
     <use
        xlink:href="#motor-support-px244m-02a"
        id="use8799"
@@ -1468,6 +1465,14 @@
     <use
        xlink:href="#servo-motor-shaft-7"
        id="use536" />
+    <use
+       xlink:href="#servo-motor-shaft-7-one-side"
+       id="use1439"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(207.74189,347.27713)" />
   </g>
   <g
      inkscape:groupmode="layer"
