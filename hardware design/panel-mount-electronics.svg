@@ -1057,90 +1057,86 @@
          r="14.173228"
          class="group-engraving"
          transform="rotate(90)"
-         id="circle458"
+         id="circle468"
          style="fill:none;stroke:#0000ff;stroke-width:1" />
       <circle
          cx="346.42133"
          cy="-295.54248"
          r="8.8582678"
-         id="circle434"
+         id="circle470"
          style="fill:none;stroke:#ff0000;stroke-width:1"
          transform="rotate(90)" />
       <g
-         id="g500"
+         id="g490"
          style="fill:none;stroke:#ff0000;stroke-width:1">
-        <g
-           id="g489"
-           transform="translate(0,-7.0866089)">
           <circle
-             cx="293.27173"
+           cx="286.18512"
              cy="-295.54248"
              r="1.7716535"
-             id="circle483"
+           id="circle472"
              transform="rotate(90)" />
           <circle
-             cx="300.35834"
+           cx="293.27173"
              cy="-295.54248"
              r="1.7716535"
-             id="circle485"
+           id="circle474"
              transform="rotate(90)" />
-        </g>
         <circle
            cx="300.35834"
            cy="-295.54248"
            r="1.7716535"
-           id="circle438"
+           id="circle478"
            transform="rotate(90)" />
         <circle
            cx="307.44495"
            cy="-295.54248"
            r="1.7716535"
-           id="circle440"
+           id="circle480"
            transform="rotate(90)" />
         <circle
            cx="314.53156"
            cy="-295.54248"
            r="1.7716535"
-           id="circle442"
+           id="circle482"
            transform="rotate(90)" />
         <circle
            cx="321.61816"
            cy="-295.54248"
            r="1.7716535"
-           id="circle444"
+           id="circle484"
            transform="rotate(90)" />
         <circle
            cx="328.7048"
            cy="-295.54248"
            r="1.7716535"
-           id="circle446"
+           id="circle486"
            transform="rotate(90)" />
         <rect
            x="362.36621"
            y="-297.31412"
            width="42.519684"
            height="3.5433071"
-           id="rect448"
+           id="rect488"
            transform="rotate(90)" />
       </g>
       <g
          class="group-engraving"
          transform="rotate(90,-25.439427,320.9819)"
-         id="g456"
+         id="g496"
          style="fill:none;stroke:#0000ff;stroke-width:1">
         <line
            x1="-14.173228"
            x2="14.173228"
            y1="0"
            y2="0"
-           id="line452"
+           id="line492"
            style="fill:none" />
         <line
            x1="0"
            x2="0"
            y1="-14.173228"
            y2="14.173228"
-           id="line454"
+           id="line494"
            style="fill:none" />
       </g>
     </symbol>
