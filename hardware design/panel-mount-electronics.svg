@@ -267,7 +267,7 @@
          class="cut"
          cx="413.06018"
          cy="557.90491"
-         r="12.6615"/>
+         r="12.6615" />
       <line
          style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="line5057"
@@ -655,7 +655,7 @@
          id="ellipse14069"
          cx="413.06018"
          cy="557.90491"
-         r="12.665"/>
+         r="12.665" />
       <line
          style="clip-rule:evenodd;fill:none;fill-rule:nonzero;stroke:#0000ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
          id="line14071"
@@ -1194,6 +1194,47 @@
          r="2.0322344"
          cx="0" />
     </symbol>
+    <symbol
+       id="servo-motor-futaba-s3003">
+      <title
+         id="title9121">Servo Motor Futaba S3003</title>
+      <path
+         id="rect7256"
+         style="fill:none;stroke:#ff0000;stroke-width:1;stop-color:#000000"
+         d="m -2.1464844,-104.86914 v 27.767578 H -38.361328 V 77.101562 H -2.1464844 V 104.86914 H 2.1464844 V 77.101562 H 38.361328 V -77.101562 H 2.1464844 v -27.767578 z"
+         transform="scale(0.9375)" />
+      <rect
+         style="fill:none;stroke:#0000ff;stroke-width:0.9375;stop-color:#000000"
+         id="rect7258"
+         width="71.929131"
+         height="196.65355"
+         x="-35.964565"
+         y="-98.326775" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.9375;stop-color:#000000"
+         id="path7260"
+         cx="-18.897499"
+         r="7.9724412"
+         cy="-85.305115" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.9375;stop-color:#000000"
+         id="circle7270"
+         cx="18.897499"
+         cy="-85.305115"
+         r="7.9724412" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.9375;stop-color:#000000"
+         id="circle7314"
+         cx="-18.897499"
+         r="7.9724412"
+         cy="85.28949" />
+      <circle
+         style="fill:none;stroke:#ff0000;stroke-width:0.9375;stop-color:#000000"
+         id="circle7316"
+         cx="18.897499"
+         cy="85.28949"
+         r="7.9724412" />
+    </symbol>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1202,9 +1243,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.4161983"
-     inkscape:cx="280.58195"
-     inkscape:cy="394.98666"
+     inkscape:zoom="1.9805903"
+     inkscape:cx="225.14105"
+     inkscape:cy="1076.2762"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1233,7 +1274,9 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>
+     Panel Mount Electronics
+     </dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1472,6 +1515,30 @@
        width="100%"
        height="100%"
        transform="translate(207.74189,347.27713)" />
+    <use
+       xlink:href="#servo-motor-futaba-s3003"
+       id="use7384"
+       transform="translate(71.883242,891.27144)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <text
+       xml:space="preserve"
+       style="font-size:22.5px;font-family:Monaco;-inkscape-font-specification:Monaco;fill:#000000;stroke:none;stroke-width:0.9375;stop-color:#000000"
+       x="49.021397"
+       y="1017.6167"
+       id="text9438"><tspan
+         sodipodi:role="line"
+         id="tspan9436"
+         x="49.021397"
+         y="1017.6167"
+         style="fill:#000000;stroke:none;stroke-width:0.9375">Servo Motor </tspan><tspan
+         sodipodi:role="line"
+         x="49.021397"
+         y="1045.7417"
+         style="fill:#000000;stroke:none;stroke-width:0.9375"
+         id="tspan9440">Futaba S3003</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
